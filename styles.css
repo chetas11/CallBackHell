@@ -1,0 +1,20 @@
+body {
+  background-color: #40a8c4;
+}
+
+h1 {
+  font-size: 4rem;
+  color: whitesmoke;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading {
+  font-size: 4rem;
+  font-family: "Sansita Swashed", cursive;
+}
